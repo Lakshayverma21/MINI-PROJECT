@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    margin: 0 auto 0 auto;
+    font-family: serif;
+    font-size: 50px;
+    color: #213555;
+    font-weight: bolder;
+}  
+
+h2 {
+    font-family: serif;
+    color: #E7CBCB;
+    font-size: 25px;
+    color: #213555;
+    font-weight: lighter;
+}
+
+h3 {
+    font-family: serif;
+    color: #445069;
+    font-size: xx-large;
+}
+
+li {
+    color: #212A3E;
+    font-size: x-large;
+    font-style: oblique;
+}
+
+p {
+    font-family: serif;
+    font-size: x-large;
+}
+
+/*
+16px = 100% = 1em
+90px = 5.625em
+
+a color name - like "red"
+a HEX value - like "#ff0000"
+an RGB value - like "rgb(255,0,0)"
+*/
+
+.top-cloud {
+    position: absolute;
+    right: 170px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 110px;
+    bottom: 450px;
+}
+
+.mountain {
+    position: relative;
+    top: 100px;
+}
+
+.top-container {
+    background-color: skyblue;
+    position: relative;
+    padding: 100px;
+    
+}
+
+.intro-container {
+    background-color: #D8D9DA;
+}
+
+.middle-container {
+    background-color: #E4F1FF;
+}
+
+.third-container {
+    background-color: #A0BFE0;
+}
+
+.fourth-container {
+    background-color: #749BC2;
+}
+
+.fifth-container {
+    background-color: #DDE6ED;
+}
+
+.sixth-container {
+    background-color: #7C81AD;
+}
+
+.table-container {
+    background-color: #749BC2;
+    position: relative;
+    left: 31.5pc;
+    font-family: serif;
+}
+
+.ratiing-container {
+    background-color: #5C5470;
+}
+
+.ratingtable-container {
+    color: #0B2447;
+    position: relative;
+    left: 34pc;
+    font-family: serif;
+}
